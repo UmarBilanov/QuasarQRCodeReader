@@ -1,1 +1,3 @@
-# QuasarQRCodeReader
+# Quasar App
+
+> WIP
